@@ -1,4 +1,11 @@
-I'm returning to school [*geriatric*](https://index.medium.com/why-the-hybrid-workforce-of-the-future-depends-on-the-geriatric-millennial-6f9ff4de1d23), as I've learned. 
+# "As a Geriatric Millenial" Hypertext
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">shout out to everyone born between 1980 to 1985, you’ve been Gen X, Gen Y, a millennial, the Oregon trail generation, a xennial, an elder millennia, and now a *checks notes* geriatric millennial</p>&mdash; Indy 🐧 (@IndecisiveJones) <a href="https://twitter.com/IndecisiveJones/status/1393251090557177866?ref_src=twsrc%5Etfw">May 14, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+This is a projects for the University of Washington's DXARTS 200 course on digital art.
 
+This is an example of a "hypertext" responding to the prompt: 
+
+> A visualized diagram in PDF using Hypertext  (Links to an external site.)(or a url if it is online), inspired by ideas of the text about your own personal identity and imagining alternative futures for the place you inhabit. You can collect keywords from the original text, or invent your own and link them with other words, texts, images, videos, or sounds. Feel free to incorporate any material digital or analog (found text, images, or sounds from the web, photographs, sketches, collages etc) to create the visual imagery of your diagram as long as you embed them into your project and make them clickable. Think creatively!
+
+I'm returning to school [*geriatric*](https://index.medium.com/why-the-hybrid-workforce-of-the-future-depends-on-the-geriatric-millennial-6f9ff4de1d23), as I've learned. This hypertext poem/collage is a response to that notion and to the desire to act as a bridge between a humanist perspective and a post-humanist one as a desperate bid to avoid environmental & technological catastrophe. 
+
+ 

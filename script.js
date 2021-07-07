@@ -64,8 +64,6 @@ function preload() {
 
 }
 
-
-
 function drawImg() {
   if (!img) return
   image(img, width / 2 - img.width / 2, height / 2 - img.height / 2)
@@ -107,8 +105,8 @@ function drawCurrent() {
   const current = hyperTexts[currentIndex]
   push()
   textSize(width / 40)
-  rect(5, 5, textWidth(current.string) + 10, 36)
-  text(current.string, 10, 30)
+  rect(5, 5, textWidth(current.string) + 10, width / 40 * 1.2)
+  text(current.string, 10, 36)
   pop()
 }
 
