@@ -142,7 +142,7 @@ class TextBand {
     for (let c of this.string) {
       push()
       rotate(arcLength / this.radius)
-      fill(240)
+      fill(240, 160)
       if (this.textHover) {
         fill(10)
       }
@@ -157,7 +157,7 @@ class TextBand {
     noFill()
     strokeCap(SQUARE)
     strokeWeight(this.fontSize)
-    stroke(0, 200)
+    stroke(0, 80)
     if (this.textHover) {
       stroke(250)
     }
