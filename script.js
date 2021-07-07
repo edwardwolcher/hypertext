@@ -78,8 +78,9 @@ function drawImg() {
 }
 
 function mouseClicked() {
-  if (cursorIndex) {
-    currentIndex = cursorIndex.id
+  const next = system.bands.find(band => band.textHover)
+  if (next) {
+    currentIndex = next.hypertext.id
     resetTexts()
     prepareImage()
   }
@@ -104,9 +105,9 @@ function setLink() {
 function drawCurrent() {
   const current = hyperTexts[currentIndex]
   push()
-  textSize(width / 40)
-  rect(5, 5, textWidth(current.string) + 10, width / 40 * 1.2)
-  text(current.string, 10, 36)
+  textSize(24)
+  rect(5, 5, textWidth(current.string) + 10, 36)
+  text(current.string, 10, 32)
   pop()
 }
 
